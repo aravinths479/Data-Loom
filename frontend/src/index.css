@@ -1,0 +1,71 @@
+/* Base styles for forms */
+.login,
+.signup {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+  .login,
+  .signup {
+    max-width: 100%;
+  }
+}
+
+/* Styles for form headings */
+.login h3,
+.signup h3 {
+  text-align: center;
+  color: #333;
+}
+
+/* Styles for labels */
+.login label,
+.signup label {
+  display: block;
+  margin-top: 10px;
+}
+
+/* Styles for input fields */
+.login input,
+.signup input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+/* Styles for buttons */
+.login button,
+.signup button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Styles for loading spinner */
+.login .spinner-border,
+.signup .spinner-border {
+  margin-left: 5px;
+}
+
+/* Styles for error messages */
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+
+ /* navbar */
+
+
+ 

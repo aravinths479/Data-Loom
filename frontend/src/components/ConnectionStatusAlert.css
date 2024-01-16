@@ -1,0 +1,20 @@
+/* ConnectionStatusAlert.css */
+
+.offline-status {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #2a2929; /* Black color for offline */
+    color: #fff;
+    padding: 8px 16px;
+    text-align: center;
+    font-size: small;
+    font-weight: bold;
+    
+    height: 40px; /* Reduced height */
+    z-index: 9999; /* Set a high z-index */
+    border: 1px solid white;
+    border-radius: 6px;
+  }
+  
