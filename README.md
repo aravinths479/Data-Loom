@@ -1,6 +1,6 @@
 # Data Loom - Google Drive Clone
 
-Data Loom is a full-fledged cloud storage application that replicates the functionality of Google Drive. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporating AWS services, the project follows a microservices architecture for enhanced scalability and efficient data management.
+Data Loom is a full-fledged cloud storage application that replicates the functionality of Google Drive. Built using nodeJs and MySQl (MySQL, Express.js, React.js, Node.js) and incorporating AWS services, the project follows a microservices architecture for enhanced scalability and efficient data management.
 
 ## Features
 
@@ -14,7 +14,7 @@ Data Loom is a full-fledged cloud storage application that replicates the functi
 
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MySQL
 - **Cloud Services:** AWS (Amazon S3, EC2, etc.)
 - **Microservices:** Docker, Kubernetes (optional)
 
