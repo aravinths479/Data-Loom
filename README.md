@@ -16,7 +16,6 @@ Data Loom is a full-fledged cloud storage application that replicates the functi
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL
 - **Cloud Services:** AWS (Amazon S3, EC2, etc.)
-- **Microservices:** Docker, Kubernetes (optional)
 
 ## Getting Started
 
